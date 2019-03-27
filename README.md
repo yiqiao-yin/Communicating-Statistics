@@ -8,13 +8,15 @@ Why communicating with statistics? Communication is central to your job as a qua
 
 # Contents
 
+The following are selected contents that I found useful to collect for this course and for future generations.
+
 ## Graphing Data
 
 The ability to graph succinct data with no more or less notation is crucial in this area. You want to be able to create a graph that any audience can immediately capture exactly what you are trying to say. A good article addressing this point is [here](https://statmodeling.stat.columbia.edu/2012/12/06/one-more-graphics-principle-for-stephen-kosslyn-theres-no-need-to-cram-everything-into-a-single-plot/).
 
 ## Communicating Error
 
-What happens when you are dealing with errors, variability, and uncertainty? Howard Wainer pointed out a few points in displaying errors can be helpful [here](https://statmodeling.stat.columbia.edu/2009/04/21/w_bradford_pale/). Professor Gelman also disclosed a few ideas in his blog which are listed in the following:
+What happens when you are dealing with errors, variability, and uncertainty? Howard Wainer pointed out a few points in displaying errors can be helpful [here](http://www.stat.columbia.edu/~gelman/communication/Wainer1996.pdf/). Professor Gelman also disclosed a few ideas in his blog which are listed in the following:
 
 - [Kahan](https://statmodeling.stat.columbia.edu/2014/11/25/almost-inadvertently-followed-dan-kahans-principles-class-today/)
 - Detailed discussion about variation and uncertainty is the key to discuss what could go wrong in an analysis, which is essential in making business decisions since "what-if" scenarios are definitely required to be discussed on the table. A good source is [here](http://www.stat.columbia.edu/~gelman/research/published/bayes_management.pdf).
