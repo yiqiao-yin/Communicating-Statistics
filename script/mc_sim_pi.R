@@ -9,7 +9,7 @@ piR.plot <- function(N) {
   label <- ifelse(d < 1, 1, 0)
   plot(x,y,col=label+1,
        main=paste0("Simulation of Pi: N=",N,
-                   "; Simulated value=",
+                   "; Approx. Value of Pi=",
                    round(4*plyr::count(label)[2,2]/N,3)),
        pch = 20, cex = 1)
 }
