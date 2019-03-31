@@ -36,3 +36,9 @@ A good source can refer to [here](http://download.gsb.bund.de/BIB/global_flow/).
 ## Collaboration and Consulting
 
 A good statistician in industry share quite a few similarities with being a good consultant. I think it is crucial to understand this and a good source can be [Rindskopf’s Rules for Statistical Consulting](https://statmodeling.stat.columbia.edu/2008/01/25/rindskopfs_rule/). Moreover, we also want to get a bit of understanding of the expectation of being a good consultant which is discussed by [this article](https://statmodeling.stat.columbia.edu/2012/11/29/what-is-expected-of-a-consultant/).
+
+## Communication and Impact on Science
+
+It is often times that successful results come easy on paper. However, truly replicable performance will not be so easy and it always require much more serious connection among theory, measurement, and data. Professor Gelman had a very good article [here](http://www.stat.columbia.edu/~gelman/research/published/incrementalism_3.pdf) discussing this idea. 
+
+A good source of discussing Type M and Type S errors can be [here](https://alexanderetz.com/2015/05/21/type-s-and-type-m-errors/).
