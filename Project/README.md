@@ -12,7 +12,15 @@ For example, BlackRock does ...
 
 # Proposed Solution
 
+Goal: by carefully investigating clients' personal needs and risk profile, we come up with a solution. 
+
+- Demo for [Retirement Simulation](https://y-yin.shinyapps.io/RETIREMENT-SIMULATION/);
+
 I proposed an algorithm derived from a formula. 
+
+- Theoretical Model [here](https://yiqiaoyin.files.wordpress.com/2018/12/rubust-portfolio-by-influence-measure-yiqiao-yin-2018.pdf);
+
+- Application [here](https://y-yin.shinyapps.io/CENTRAL-INTELLIGENCE-PLATFORM/)
 
 # Conclusion
 
