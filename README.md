@@ -42,3 +42,7 @@ A good statistician in industry share quite a few similarities with being a good
 It is often times that successful results come easy on paper. However, truly replicable performance will not be so easy and it always require much more serious connection among theory, measurement, and data. Professor Gelman had a very good article [here](http://www.stat.columbia.edu/~gelman/research/published/incrementalism_3.pdf) discussing this idea. 
 
 A good source of discussing Type M and Type S errors can be [here](https://alexanderetz.com/2015/05/21/type-s-and-type-m-errors/).
+
+## Project
+
+For project wrapping up Communicating Statistics class session this term, I decided to present some of my findings during the past few years of my research about a potential problem in financial market. To tackle this problem, I present my solution as well as my experiencing in running my own fund, [Yin's Capital](https://yinscapital.com/). Please see the project page by clicking [here](https://github.com/yiqiao-yin/Communicating-Statistics/tree/master/Project). 
