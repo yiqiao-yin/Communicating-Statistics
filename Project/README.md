@@ -6,9 +6,6 @@ United States has a nominal GDP (can also be measured by purchasing power parity
 
 The above figures are simply saying every year we got over $1 trillion money inflow/outflow that we are working with. This is when we have all the giants come in to play around with the market. In my book, top tier ground will have players which composed of the Government and the people. Tier two we can talk about people who directly move money through 401k type of channel which are companies like Vanguard, BlackRock, State Street or individuals such as Warren Buffett, Ray Dalio, Carl Iahn, (of course Gates and Bezos are included but they have real business that they are working with), etc..
 
-Simple math with $60k savings 30 years with 20% annual return (this is already pretty high) will give you $14.2 million dollars (which in 30 years can be like what? Middle class?). I’d say from experience if someone can do this, he should be considered fairly successful. But is it though? How about kids? How about mortgage? How about personal loans? Chances are this is not enough. 
-We are talking about a very har bar here and many people do not realize that which makes me scary. Some high school dropouts and college graduates are finding poorly paid jobs and are taking home $20k a year are holding up the flag of socialism which makes them follow people like Bernie Sanders (no offense to Bernie’s followers).
-
 # Financial Institutions for Savings Plan
 
 For example, BlackRock does ...
