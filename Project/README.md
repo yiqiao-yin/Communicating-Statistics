@@ -22,7 +22,7 @@ I proposed an algorithm derived from a formula.
 
 - Application [here](https://y-yin.shinyapps.io/CENTRAL-INTELLIGENCE-PLATFORM/)
 
-Besides timing, there is a list of building blocks to construct an AI to perform well in stock markets which is briefly discussed in the next section.
+Besides timing, there is a list of building blocks to construct an AI to perform well in stock markets which is briefly discussed in the following.
 
 ## Journey
 
