@@ -58,3 +58,15 @@ A good source of discussing Type M and Type S errors can be [here](https://alexa
 ## Project
 
 For project wrapping up Communicating Statistics class session this term, I decided to present some of my findings during the past few years of my research about a potential problem in financial market. To tackle this problem, I present my solution as well as my experiencing in running my own fund, [Yin's Capital](https://yinscapital.com/). Please see the project page by clicking [here](https://github.com/yiqiao-yin/Communicating-Statistics/tree/master/Project). 
+
+This presentation has the following structure:
+
+- *Introduction*: what are we doing here today? what is the audience?
+
+- *Background and Motivation*: what is the current situation? why does capitalism lead to potential problem?
+
+- *Proposed Solution*: some new directions need to be taken: timing is one technology in high demand but not in application right now; I propose a technology that times stock market in any market environment.
+
+- *Conclusion*
+
+I will wrap things up with time for questions. I do not think this is a one man job. If anybody can raise questions, that's automatically a learning opportunity for me and that is where this presentation will land on, to incentivize audience to think and to ask questions so it's a win-win.
