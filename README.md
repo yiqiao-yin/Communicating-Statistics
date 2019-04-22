@@ -10,9 +10,21 @@ Why communicating with statistics? Communication is central to your job as a qua
 
 The following are selected contents that I found useful to collect for this course and for future generations.
 
+## Story Telling
+
+The course starts with a simple topic: story telling. We discussed students' work and research experience in groups which revolved with kaiser Fung's [article](https://junkcharts.typepad.com/numbersruleyourworld/2011/11/three-hours-in-the-life-of-a-glorified-data-scientist.html) about data scientists. Recommended books are [here](https://fivebooks.com/best-books/andrew-gelman-on-statistics/).
+
 ## Graphing Data
 
-The ability to graph succinct data with no more or less notation is crucial in this area. You want to be able to create a graph that any audience can immediately capture exactly what you are trying to say. A good article addressing this point is [here](https://statmodeling.stat.columbia.edu/2012/12/06/one-more-graphics-principle-for-stephen-kosslyn-theres-no-need-to-cram-everything-into-a-single-plot/).
+The ability to graph succinct data with no more or less notation is crucial in this area. You want to be able to create a graph that any audience can immediately capture exactly what you are trying to say. A good article addressing this point is [here](https://statmodeling.stat.columbia.edu/2012/12/06/one-more-graphics-principle-for-stephen-kosslyn-theres-no-need-to-cram-everything-into-a-single-plot/). Professor Gelman and Professor Unwin also wrote an amazing [article](http://www.stat.columbia.edu/~gelman/research/published/vis14.pdf) discussing infoviz and statistical graphics which deserves our attention.
+
+## Principles of Graphics
+
+With graphing data laying the group work, we move on to generalized principles of graphics in this session with Zigerall's reading on [plot](https://www.ljzigerell.com/?p=1891) and [confidence interval](https://www.ljzigerell.com/?p=1916). We also discussed the revolution of statistical graphics over time and how audience changes focus in interpreting graphics. An [article](http://www.stat.columbia.edu/~gelman/communication/Wainer2009.pdf) here by Wainer brought up a few interesting points.
+
+## Classroom Teaching
+
+I have never been a professor. I have only being a TA for one class before. I found teaching fascinating though I felt there is plenty of room for me to improve. This topic is particularly helpful for me. Here are some quick [pro tipes](https://statmodeling.stat.columbia.edu/2014/08/18/quick-disorganzed-tips-classroom-teaching/) by Professor Gelman. Another [article](https://statmodeling.stat.columbia.edu/2009/08/06/how_to_design_a/) by him specifically on statistical inference is quite interesint as well.
 
 ## Communicating Error
 
