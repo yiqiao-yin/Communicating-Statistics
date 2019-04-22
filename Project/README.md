@@ -6,7 +6,7 @@ United States has a nominal GDP (can also be measured by purchasing power parity
 
 The above figures are simply saying every year we got over $1 trillion money inflow/outflow that we are working with. This is when we have all the giants come in to play around with the market. In my book, top tier ground will have players which composed of the Government and the people. Tier two we can talk about people who directly move money through 401k type of channel which are companies like Vanguard, BlackRock, State Street or individuals such as Warren Buffett, Ray Dalio, Carl Iahn, (of course Gates and Bezos are included but they have real business that they are working with), etc..
 
-# Financial Institutions for Savings Plan
+# Background: Motivation on the Unmotivated
 
 Capital market works as a mighty jungle with fierce competition. Though it constantly corrects itself, the system may be structured in a a way with all incentives to move above and beyond stripped away especially when a sophisticated hierarchy is formed like a pyramid. This is a time when corrections need to be done from bottom up not be executed from top to bottom.
 
