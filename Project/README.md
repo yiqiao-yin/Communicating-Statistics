@@ -8,7 +8,9 @@ The above figures are simply saying every year we got over $1 trillion money inf
 
 # Financial Institutions for Savings Plan
 
-Big wealth management firms are no longer incentivized to work on timing strategy. Though a few fund managers may have developed experience in this arena, the corporate structure is not designed to do so.
+Capital market works as a mighty jungle with fierce competition. Though it constantly corrects itself, the system may be structured in a a way with all incentives to move above and beyond stripped away especially when a sophisticated hierarchy is formed like a pyramid. This is a time when corrections need to be done from bottom up not be executed from top to bottom.
+
+Big wealth management firms are no longer incentivized to work on timing strategy. Though a few fund managers may have developed experience in this arena, the corporate structure is not designed to do so. This unforunate design originated from capitalism separates United States, making the rich richer and the poor poorer. A good article can be found [here](https://github.com/yiqiao-yin/Communicating-Statistics/blob/master/Project/docs/Why-and-How-Capitalism-Needs-To-Be-Reformed.pdf).
 
 For example, BlackRock does has a 80/20 protocol for most of its product but for some products they overload their equity account, see [here](https://www.ishares.com/us/products/etf-product-list#!type=ishares&tab=overview&view=list&fst=49916%7C44333). What if they bought at the top of the market? Well, they are not afraid to do so, because every year they are "gifted" with $1 trillion dollars and they can buy up the market themselves. *There is no timing needed because American people's losses today can be washed away by exhausting future buying power (or purchasing power).* If they made mistakes today, they are okay because they know next month you will give them money and they can double down. 
 
