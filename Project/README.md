@@ -62,4 +62,6 @@ I am now equipped with two unique skills: (1) I can use probability theory to ma
 
 # Conclusion
 
-Where do you stand in this societal pyramid? Top of bottom? Are you going to make fortune of yourself and give your kids a better life? If yes, exactly what steps are you taking to achieve that? If you don’t have any clue about how to tackle these problems, you are welcomed to come to me and I can provide this service for free. 
+Capital market works as a mighty jungle with fierce competition. Though it constantly corrects itself, the system may be structured in a a way with all incentives to move above and beyond stripped away especially when a sophisticated hierarchy is formed like a pyramid. This is a time when corrections need to be done from bottom up not be executed from top to bottom. 
+
+Where do you stand in this societal pyramid? Top of bottom? Are you going to make fortune of yourself and give your kids a better life? If yes, exactly what steps are you taking to achieve that? This presentation raised a red flag and a potentially warning to its audience about wealth management and retirement planning, a decision necessarily but not set up to help out middle and lower class in United States.
