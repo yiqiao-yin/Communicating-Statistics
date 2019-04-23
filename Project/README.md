@@ -30,6 +30,8 @@ Besides timing, there is a list of building blocks to construct an AI to perform
 
 ## Journey
 
+In August of 2010, I came to United States with $3000 in my pocket that I made from renting my gameboy to my classmates. Instead of travelling or going to a fancy restaurant, I opened a brokerage account to start to trade stocks.
+
 Starting from 2012, I started by looking at correlation. This links to running regression and I have conducted experiment to learn that myself when I was a freshman. What is the linear relationship between market return and a stock return? How about fundamental values? 
 - Paper is [How to Understand Future Returns of a Security](https://yiqiaoyin.files.wordpress.com/2016/08/how-to-understand-future-returns-of-a-securityef80a5-revised-2014.pdf).
 
