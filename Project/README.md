@@ -30,11 +30,11 @@ Besides timing, there is a list of building blocks to construct an AI to perform
 
 ## Journey
 
-First, I started by looking at correlation. This links to running regression and I have conducted experiment to learn that myself when I was a freshman. What is the linear relationship between market return and a stock return? How about fundamental values? 
+Starting from 2012, I started by looking at correlation. This links to running regression and I have conducted experiment to learn that myself when I was a freshman. What is the linear relationship between market return and a stock return? How about fundamental values? 
 - Paper is [How to Understand Future Returns of a Security](https://yiqiaoyin.files.wordpress.com/2016/08/how-to-understand-future-returns-of-a-securityef80a5-revised-2014.pdf).
 
-Next, I started to size up. A data composed of stock-to-market comparison seemed too easy, so I started looking at cross-sectional finance data. The common data set that is used for PhD students in finance is CRSP stock universe. This is where I started to work with large-scale matrices that are 2GB in size and when I learned to work with different forms of data frames. It started to turn into tedious data clean-up work. However, the results are interesting. 
-- It all started with working for Novy-Marx. The work got him tenure was [here](http://rnm.simon.rochester.edu/research/OSoV.pdf). It later got introduced in industry and the paper introduced a [five-factor model](https://www.sciencedirect.com/science/article/pii/S0304405X14002323) and PDF can be accessed [here](https://www8.gsb.columbia.edu/programs/sites/programs/files/finance/Finance%20Seminar/spring%202014/ken%20french.pdf).
+In 2014, I started to size up. A data composed of stock-to-market comparison seemed too easy, so I started looking at cross-sectional finance data. The common data set that is used for PhD students in finance is CRSP stock universe. This is where I started to work with large-scale matrices that are 2GB in size and when I learned to work with different forms of data frames. It started to turn into tedious data clean-up work. However, the results are interesting. 
+- It all started with working for Novy-Marx in 2016. The work got him tenure was [here](http://rnm.simon.rochester.edu/research/OSoV.pdf). It later got introduced in industry and the paper introduced a [five-factor model](https://www.sciencedirect.com/science/article/pii/S0304405X14002323) and PDF can be accessed [here](https://www8.gsb.columbia.edu/programs/sites/programs/files/finance/Finance%20Seminar/spring%202014/ken%20french.pdf).
 - Immediately, I was doing some work trying to detect the long last pattern I have found in industry, i.e. long-run reversal pattern. It turned out the work was previously down by [Carhart](https://en.wikipedia.org/wiki/Carhart_four-factor_model) or click [here](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1997.tb03808.x) for his published paper.
 - I wrote [Cross-section Study on Stock Returns](https://yiqiaoyin.files.wordpress.com/2016/08/cross-section-study-on-stock-returns-to-future-expectation-theorem.pdf); and 
 - Another similar project that examines stock market through market value balance sheet, click [here](https://yiqiaoyin.files.wordpress.com/2016/08/alternative-empirical-study-on-market-value-balance-sheet.pdf) if interested.
@@ -42,10 +42,10 @@ Next, I started to size up. A data composed of stock-to-market comparison seemed
 After looking at tons of stock returns data set, I got bored at conventional way of analyzing stock market. I invented this term "greed" so that I can turn this into a supervised model for myself to study. This is not publishable idea, but quite interesting to me. 
 - Paper is [here](https://yiqiaoyin.files.wordpress.com/2016/05/empirical-study-on-greed.pdf). 
 
-In 2016 I took a little digression to study macroeconomics. I did a project on contact rate in game theory. The paper was too hard, but the coding part is easy. I got stuck on dynamic model in macro material and it took me 3 months to figure this out. It leads to nowhere, but I am grateful to the professor who instructed me and him spending time with me on this project. 
+After 2016 I took a little digression to study macroeconomics. I did a project on contact rate in game theory. The paper was too hard, but the coding part is easy. I got stuck on dynamic model in macro material and it took me 3 months to figure this out. It leads to nowhere, but I am grateful to the professor who instructed me and him spending time with me on this project. 
 - Trade Dynamics with Endogenous Contact Rate is [here](https://yiqiaoyin.files.wordpress.com/2016/10/trade-dynamics-with-endogenous-contact-rate.pdf). 
 
-After trading floor, I took a little bit of time and summarizing my experiences on the trading floor and they become the following series of papers:
+After the experience on trading floor, I took a little bit of time and summarizing my experiences on the trading floor and they become the following series of papers:
 - [Buy Signal from Limit Theorem](https://yiqiaoyin.files.wordpress.com/2018/05/buy-signal-from-limit-theorem.pdf)
 - [Time Series Analysis on Stock Returns](https://yiqiaoyin.files.wordpress.com/2017/05/time-series-analysis-on-stock-returns.pdf)
 - [Martingale to Optimal Trading](https://yiqiaoyin.files.wordpress.com/2016/10/martingale-to-optimal-trading.pdf)
