@@ -69,4 +69,4 @@ This presentation has the following structure:
 
 - *Conclusion*
 
-I will wrap things up with time for questions. I do not think this is a one man job. If anybody can raise questions, that's automatically a learning opportunity for me and that is where this presentation will land on, to incentivize audience to think and to ask questions so it's a win-win.
+I will finish up with time for questions. I do not think this is a one-man job. If anybody can raise questions, that's automatically a learning opportunity for me and that is where this presentation will land on, to incentivize audience to think and to ask questions so in long run these thoughts today can impact our future tomorrow.
