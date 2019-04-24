@@ -1,6 +1,4 @@
-# Title: Conflict of Interest in Financial System and Proposed Solution
-
-What is the conflict? Why does it arrive? How is it incentivized?
+# Title: A Gordian Knot in the Financial System and Proposed Solution
 
 United States has a nominal GDP (can also be measured by purchasing power parity, PPP) of [$20 trillion dollars](https://www.bea.gov/news/2019/gross-domestic-product-4th-quarter-and-annual-2018-third-estimate-corporate-profits-4th) while BlackRock (the king of 401k plan provider) holds about [$6 trillion AUM](https://www.marketwatch.com/story/blackrocks-assets-fall-below-6-trillion-mark-2019-01-16) of which [$4 trillion](http://ir.blackrock.com/Cache/1001247206.PDF?O=PDF&T=&Y=&D=&FID=1001247206&iid=4048287) is in equity market, $1 trillion in fixed income, and the rest in derivatives. On top of these numbers, we also know that United States has a population of [320 million people](https://www.census.gov/popclock/) with an average salary of [$56k](https://datausa.io/profile/geo/united-states/) which sum to total of $17.9 trillion dollars (the math seems right). An average American deposit to their savings account of about [7% annually](https://smartasset.com/retirement/average-401k-balance-by-age) which approximates to $1.25 trillion dollars. 
 
@@ -9,6 +7,8 @@ The above figures are simply saying every year we got over $1 trillion money inf
 # Background: Motivation on the Unmotivated
 
 Capital market works as a mighty jungle with fierce competition. Though it constantly corrects itself, the system may be structured in a a way with all incentives to move above and beyond stripped away especially when a sophisticated hierarchy is formed like a pyramid. This is a time when corrections need to be done from bottom up not be executed from top to bottom.
+
+What is the conflict? Why does it arrive? How is it incentivized?
 
 Big wealth management firms are no longer incentivized to work on timing strategy. Though a few fund managers may have developed experience in this arena, the corporate structure is not designed to do so. This unforunate design originated from capitalism separates United States, making the rich richer and the poor poorer. A good article can be found [here](https://github.com/yiqiao-yin/Communicating-Statistics/blob/master/Project/docs/Why-and-How-Capitalism-Needs-To-Be-Reformed.pdf).
 
