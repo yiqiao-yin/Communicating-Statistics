@@ -63,7 +63,7 @@ This presentation has the following structure:
 
 - *Introduction*: what are we doing here today? what is the audience?
 
-- *Background and Motivation*: what is the current situation? why does capitalism lead to potential problem?
+- *Background and Motivation*: what is the current situation? what is potential consequence?
 
 - *Proposed Solution*: some new directions need to be taken: timing is one technology in high demand but not in application right now; I propose a technology that times stock market in any market environment.
 
