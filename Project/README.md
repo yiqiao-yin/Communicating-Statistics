@@ -6,10 +6,6 @@ United States has a nominal GDP (can also be measured by purchasing power parity
 
 The above figures are simply saying every year we got over $1 trillion money inflow/outflow that we are working with. This is when we have all the giants come in to play around with the market. In my book, top tier ground will have players which composed of the Government and the people. Tier two we can talk about people who directly move money through 401k type of channel which are companies like Vanguard, BlackRock, State Street or individuals such as Warren Buffett, Ray Dalio, Carl Iahn, (of course Gates and Bezos are included but they have real business that they are working with), etc..
 
-Some interesting case studies:
-
-- Buffett's Apple Trade, [2016-2 13F](https://www.sec.gov/Archives/edgar/data/1067983/000095012316015025/xslForm13F_X01/form13fInfoTable.xml) and [2016-5 13F](https://www.sec.gov/Archives/edgar/data/1067983/000095012316017295/xslForm13F_X01/form13fInfoTable.xml); 
-
 # Background: Motivation on the Unmotivated
 
 Capital market works as a mighty jungle with fierce competition. Though it constantly corrects itself, the system may be structured in a a way with all incentives to move above and beyond stripped away especially when a sophisticated hierarchy is formed like a pyramid. This is a time when corrections need to be done from bottom up not be executed from top to bottom.
@@ -29,6 +25,12 @@ I proposed an algorithm derived from a formula.
 - Theoretical Model [here](https://yiqiaoyin.files.wordpress.com/2018/12/rubust-portfolio-by-influence-measure-yiqiao-yin-2018.pdf);
 
 - Application [here](https://y-yin.shinyapps.io/CENTRAL-INTELLIGENCE-PLATFORM/)
+
+In my book, it is unnecessary to brand oneself to trade or to invest. You want to accept all styles of form and implement as many schools of thoughts as possible to help yourself move above and beyond.
+
+An interesting case study:
+
+- Buffett's Apple Trade, [2016-2 13F](https://www.sec.gov/Archives/edgar/data/1067983/000095012316015025/xslForm13F_X01/form13fInfoTable.xml) and [2016-5 13F](https://www.sec.gov/Archives/edgar/data/1067983/000095012316017295/xslForm13F_X01/form13fInfoTable.xml); 
 
 Besides timing, there is a list of building blocks to construct an AI to perform well in stock markets which is briefly discussed in the following.
 
