@@ -44,12 +44,14 @@ saveGIF({
     plot(
       x, y,
       col = label+1,
+      xaxs = "i", yaxs = "i",
       main = paste0(
         "Simulation of Pi: N=", N,
         "; \nApprox. Value of Pi=", pi_hat),
       pch = 20, cex = 1)
     plot(
       nRange, pi_hat_vec, type = "both",
+      xaxs = "i", yaxs = "i",
       main = paste0(
         "Path for the Simulation: ",
         "; \nApprox. Value of Pi=", pi_hat)); 
