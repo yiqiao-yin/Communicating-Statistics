@@ -21,7 +21,9 @@ for (N in nRange) {
     pch = 20, cex = 1)
   plot(
     nRange, pi_hat_vec, type = "both",
-    main = "Path for Simulated Pi"); 
+    main = paste0(
+      "Path for the Simulation: ",
+      "; \nApprox. Value of Pi=", pi_hat)); 
   lines(nRange, y = rep(pi, length(nRange)))
 }
 
@@ -48,8 +50,10 @@ saveGIF({
       pch = 20, cex = 1)
     plot(
       nRange, pi_hat_vec, type = "both",
-      main = "Path for Simulated Pi"); 
+      main = paste0(
+        "Path for the Simulation: ",
+        "; \nApprox. Value of Pi=", pi_hat)); 
     lines(nRange, y = rep(pi, length(nRange)))
   }
-}, movie.name = "/cloud/project/mc-sim-pi-adv.gif", interval = 0.8, nmax = 30, 
-ani.width = 480)
+}, movie.name = "C:/Users/eagle/Desktop/mc-sim-pi-adv.gif", interval = 0.8, nmax = 30, 
+ani.width = 800)
