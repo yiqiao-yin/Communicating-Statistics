@@ -1,6 +1,6 @@
 # Communicating Statistics
 
-This is the github repo for related projects from Communicating Statistics course by Professor Andrew Gelman.
+This is the github repo for related projects from Communicating Statistics course by Professor Andrew Gelman. Github.io page is [here](https://yiqiao-yin.github.io/Communicating-Statistics.github.io/).
 
 # Motivation
 
